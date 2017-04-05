@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "polymer": "polymer"
+    "polymer": "polymer",
+    "bower": "bower"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
   },
   "homepage": "https://github.com/lecogiteur/paper-dropdown-input#readme",
   "devDependencies": {
+    "bower": "^1.8.0",
     "polymer-cli": "^0.17.0"
   }
 }
