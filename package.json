@@ -1,0 +1,22 @@
+{
+  "name": "paper-dropdown-input",
+  "version": "1.0.0",
+  "description": "A paper-input that provides the user with input suggestions",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lecogiteur/paper-dropdown-input.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lecogiteur/paper-dropdown-input/issues"
+  },
+  "homepage": "https://github.com/lecogiteur/paper-dropdown-input#readme"
+}
